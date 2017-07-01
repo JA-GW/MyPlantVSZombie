@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PlantsVSZombie:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PlantsVSZombie_jar</output-path>
+    <root id="archive" name="PlantsVSZombie.jar">
+      <element id="module-output" name="PlantsVSZombie" />
+    </root>
+  </artifact>
+</component>
